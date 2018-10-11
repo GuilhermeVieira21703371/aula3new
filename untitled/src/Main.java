@@ -29,15 +29,11 @@ public class Main {
             }
 
         }
+        string oi = "beans";
 
 
-        HashMap<String,ArrayList<Automovel>> carros2 = new HashMap<>();
-
-
-        for(Type) {
 
 
         }
-
     }
 }
